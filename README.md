@@ -17,9 +17,7 @@
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="o" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"></a> 
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nath%C3%A2ny-thain%C3%A1-aparecida-de-jesus-hunzecher-a0a511109/" target="_blank"></a> 
  
